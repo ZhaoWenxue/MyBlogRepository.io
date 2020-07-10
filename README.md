@@ -7,3 +7,7 @@
 1. 52222
 1. 5222
 1. 1111
+'int main(){}'
+'''public static void main(String[] args){
+        system.out.println("nihao!");
+}'''
