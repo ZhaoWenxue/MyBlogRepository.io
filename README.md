@@ -7,8 +7,11 @@
 1. 52222
 1. 5222
 1. 1111
-'int main(){}'
-'''public static void main(String[] args){'''
+
+
+C语言'int main(){}'是
+java是'''public static void main(String[] args){
         system.out.println("nihao!");
 }'''
+懂了吗？
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
