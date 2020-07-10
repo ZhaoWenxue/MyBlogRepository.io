@@ -8,7 +8,7 @@
 1. 5222
 1. 1111
 'int main(){}'
-'''public static void main(String[] args){
+'''public static void main(String[] args){'''
         system.out.println("nihao!");
 }'''
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
